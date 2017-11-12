@@ -5,4 +5,4 @@ Using marker detection, this is a Holographic Ball Maze for the Microsoft HoloLe
 [![Holographic 3D Ball Maze](https://i.imgur.com/zanfMky.png)](https://www.youtube.com/watch?v=g_PqV8cO13U "Holographic 3D Ball Maze")
 
 ## GIFs
-![Holographic 3D Ball Maze](https://i.imgur.com/zSwP0iG.gif "Hologrpahic 3D Ball Maze")
+[GIF](https://i.imgur.com/zSwP0iG.gif)
